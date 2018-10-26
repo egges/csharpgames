@@ -21,4 +21,4 @@ The example games in this book use the following music pieces:
 - PenguinPairs - BlockMan (by Kevin MacLeod)
 - TickTick - Move Forward (by Kevin MacLeod)
 
-The music is available on[Incompetech](http://www.incompetech.com) and it is licensed under [Creative Commons: By Attribution 3.0](https://creativecommons.org/licenses/by/3.0).
+The music is available on [Incompetech](http://www.incompetech.com) and it is licensed under [Creative Commons: By Attribution 3.0](https://creativecommons.org/licenses/by/3.0).
