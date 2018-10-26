@@ -11,7 +11,7 @@ We show a number of commonly used techniques in games, such as drawing layers of
   
 **Jeroen D. Fokker** is an assistant professor in the Software Technology group at Utrecht University. As the director of education, he is responsible for the undergraduate programs in Computer Science and Information Science. He has been teaching introductory programming courses for over 20 years, using C++, Haskell, Java, and C#, as well as courses on compiler construction.
   
-**Arjan Egges** was an associate professor in the Games and Virtual Worlds group in the Department of Information and Computing Sciences at Utrecht University in the Netherlands. He has ample teaching experience related to games and computer animation, and he designed the introductory programming course for the university's Game Technology bachelor program, using C# as the language of choice. Arjan has launched a startup, Fans4Music, to help music earn a living through a web platform.
+**Arjan Egges** was an associate professor in the Games and Virtual Worlds group in the Department of Information and Computing Sciences at Utrecht University in the Netherlands. He has ample teaching experience related to games and computer animation, and he designed the introductory programming course for the university's Game Technology bachelor program, using C# as the language of choice. Arjan is currently working at a startup he has launched, Fans4Music, to help musicians earn a living through a web platform.
 
 
 ## License
