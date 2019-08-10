@@ -1,0 +1,13 @@
+Sacrifice
+Penguins sometimes must be sacrificed to solve the puzzle.
+2
+1 4 left
+ ...  
+..r..
+.....
+..b..
+..g..
+..b..
+.....
+..r..
+ ... 

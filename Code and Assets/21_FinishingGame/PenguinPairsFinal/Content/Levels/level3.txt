@@ -1,0 +1,12 @@
+Order Matters
+The order in which you move the penguins matters.
+1
+8 1 left
+    #######
+    #....r.
+    #.#####
+    #.#    
+    #.#    
+#####.#####
+.r.........
+###########

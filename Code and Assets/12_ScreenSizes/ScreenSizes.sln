@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewelJam1a", "JewelJam1a\JewelJam1a.csproj", "{C5DDC8D5-B992-4665-963F-0E0AF741AA4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewelJam1b", "JewelJam1b\JewelJam1b.csproj", "{5C3D433C-285C-4ABB-BCA8-9FA3967CA3B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewelJam1c", "JewelJam1c\JewelJam1c.csproj", "{98A5EBA9-D691-41E1-BE90-B98E18699655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5DDC8D5-B992-4665-963F-0E0AF741AA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DDC8D5-B992-4665-963F-0E0AF741AA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DDC8D5-B992-4665-963F-0E0AF741AA4E}.Debug|x86.ActiveCfg = Debug|x86
+		{C5DDC8D5-B992-4665-963F-0E0AF741AA4E}.Debug|x86.Build.0 = Debug|x86
+		{C5DDC8D5-B992-4665-963F-0E0AF741AA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DDC8D5-B992-4665-963F-0E0AF741AA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DDC8D5-B992-4665-963F-0E0AF741AA4E}.Release|x86.ActiveCfg = Release|x86
+		{C5DDC8D5-B992-4665-963F-0E0AF741AA4E}.Release|x86.Build.0 = Release|x86
+		{5C3D433C-285C-4ABB-BCA8-9FA3967CA3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3D433C-285C-4ABB-BCA8-9FA3967CA3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3D433C-285C-4ABB-BCA8-9FA3967CA3B0}.Debug|x86.ActiveCfg = Debug|x86
+		{5C3D433C-285C-4ABB-BCA8-9FA3967CA3B0}.Debug|x86.Build.0 = Debug|x86
+		{5C3D433C-285C-4ABB-BCA8-9FA3967CA3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3D433C-285C-4ABB-BCA8-9FA3967CA3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3D433C-285C-4ABB-BCA8-9FA3967CA3B0}.Release|x86.ActiveCfg = Release|x86
+		{5C3D433C-285C-4ABB-BCA8-9FA3967CA3B0}.Release|x86.Build.0 = Release|x86
+		{98A5EBA9-D691-41E1-BE90-B98E18699655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A5EBA9-D691-41E1-BE90-B98E18699655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A5EBA9-D691-41E1-BE90-B98E18699655}.Debug|x86.ActiveCfg = Debug|x86
+		{98A5EBA9-D691-41E1-BE90-B98E18699655}.Debug|x86.Build.0 = Debug|x86
+		{98A5EBA9-D691-41E1-BE90-B98E18699655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A5EBA9-D691-41E1-BE90-B98E18699655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A5EBA9-D691-41E1-BE90-B98E18699655}.Release|x86.ActiveCfg = Release|x86
+		{98A5EBA9-D691-41E1-BE90-B98E18699655}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {498FE56D-5CB7-4930-AA0F-B924AA8CD76E}
+	EndGlobalSection
+EndGlobal

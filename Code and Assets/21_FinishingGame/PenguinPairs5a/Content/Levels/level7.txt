@@ -1,0 +1,13 @@
+Multi-Colored Penguins
+A multi-colored penguin can be combined with any penguin.
+2
+4 3 right
+  ...  
+ ..r.. 
+ ..... 
+ ..b..#
+#..m.. 
+ ..b..#
+ ..... 
+ ..g.. 
+  ...  
