@@ -1,0 +1,4 @@
+﻿# Ignore any temporary files created by Visual Studio.
+.vs/
+bin/
+obj/
