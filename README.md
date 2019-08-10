@@ -20,7 +20,7 @@ The contents of this repository, including all the code and the game assets, is 
 The example games in this book use the following music pieces:
 - Painter - Blipotron (by Kevin MacLeod)
 - JewelJam - Klockworx (by Kevin MacLeod)
-- PenguinPairs - BlockMan (by Kevin MacLeod)
-- TickTick - Move Forward (by Kevin MacLeod)
+- PenguinPairs - Nouvelle Noel (by Kevin MacLeod)
+- TickTick - Getting it Done (by Kevin MacLeod)
 
 The music is available on [Incompetech](http://www.incompetech.com) and it is licensed under [Creative Commons: By Attribution 3.0](https://creativecommons.org/licenses/by/3.0).
