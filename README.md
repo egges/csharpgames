@@ -1,14 +1,6 @@
 # Learning C# by Programming Games, second edition
 
-This repository contains the sample code, solutions to the exercises and game assets belonging to the book ["Learning C# by Programming Games", second edition](https://www.springer.com/gp/book/9783642365799).
-
-Developing computer games is a perfect way to learn how to program in modern programming languages. This book teaches you how to program in the language C# through the creation of computer games – and without requiring any previous programming experience.
-
-Contrary to most programming books, we do not organize the presentation according to programming language constructs, but instead use the structure and elements of computer games as a framework. For instance, there are chapters on dealing with player input, game objects, game worlds, game states, levels, animation, physics, and intelligence. The reader will be guided through the development of four games showing the various aspects of game development. Starting with a simple shooting game, we move on to puzzle games consisting of multiple levels, and conclude the book by developing a full-fledged platform game with animation, game physics, and intelligent enemies. We show a number of commonly used techniques in games, such as drawing layers of sprites, rotating, scaling and animating sprites, dealing with physics, handling interaction between game objects, and creating pleasing visual effects. At the same time, we provide a thorough introduction to C# and object-oriented programming, introducing step by step important programming concepts such as loops, methods, classes, collections, and exception handling.
-
-The book is also designed to be used as a basis for a game-oriented programming course at university level. Supplementary materials for organizing such a course (including solutions to all exercises) are available in this repository, along with all example programs, game sprites, and sounds.
-
-This book is published by [Springer](https://www.springer.com/gp/book/9783642365799).
+This repository contains the sample code, solutions to the exercises and game assets belonging to the book ["Learning C# by Programming Games", second edition](https://www.springer.com/gp/book/9783642365799), published by Springer.
 
 ## How to Get Started
 Assuming you own a copy of the book, here's what you need to do to get started with game development:
@@ -21,6 +13,13 @@ Assuming you own a copy of the book, here's what you need to do to get started w
 Once you've completed these steps successfully, you're ready to enjoy the book to its fullest!
 
 (*) Both Visual Studio and MonoGame receive new versions quite often. This is difficult for us to keep track of, especially with a printed book. We advise you to use Visual Studio 2017 and MonoGame 3.6, to be 100% sure that the example projects will run. If you really want to use newer versions, then you are free to do this at your own risk.
+
+## About the Book
+Developing computer games is a perfect way to learn how to program in modern programming languages. This book teaches you how to program in the language C# through the creation of computer games – and without requiring any previous programming experience.
+
+Contrary to most programming books, we do not organize the presentation according to programming language constructs, but instead use the structure and elements of computer games as a framework. For instance, there are chapters on dealing with player input, game objects, game worlds, game states, levels, animation, physics, and intelligence. The reader will be guided through the development of four games showing the various aspects of game development. Starting with a simple shooting game, we move on to puzzle games consisting of multiple levels, and conclude the book by developing a full-fledged platform game with animation, game physics, and intelligent enemies. We show a number of commonly used techniques in games, such as drawing layers of sprites, rotating, scaling and animating sprites, dealing with physics, handling interaction between game objects, and creating pleasing visual effects. At the same time, we provide a thorough introduction to C# and object-oriented programming, introducing step by step important programming concepts such as loops, methods, classes, collections, and exception handling.
+
+The book is also designed to be used as a basis for a game-oriented programming course at university level. Supplementary materials for organizing such a course (including solutions to all exercises) are available in this repository, along with all example programs, game sprites, and sounds.
 
 ## About the Second Edition
 This second edition of the book includes the following improvements: 
