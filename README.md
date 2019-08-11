@@ -2,6 +2,10 @@
 
 This repository contains the sample code, solutions to the exercises and game assets belonging to the book ["Learning C# by Programming Games", second edition](https://www.springer.com/gp/book/9783642365799), published by Springer.
 
+<p align="center">
+  <img width="250" alt="Cover image of the book" src="Cover.png">
+</p>
+
 ## How to Get Started
 Assuming you own a copy of the book, here's what you need to do to get started with game development:
 1. Download and install [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/older-downloads/)*, a free program by Microsoft for writing and compiling code in C#. Follow the installation instructions, and make sure to (at least) include the components for C# development. You will see many more options (and you're free to install them), but you won't need them for this book.
