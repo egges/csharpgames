@@ -10,13 +10,25 @@ The book is also designed to be used as a basis for a game-oriented programming 
 
 This book is published by [Springer](https://www.springer.com/gp/book/9783642365799).
 
+## How to Get Started
+Assuming you own a copy of the book, here's what you need to do to get started with game development:
+1. Download and install [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/older-downloads/)*, a free program by Microsoft for writing and compiling code in C#. Follow the installation instructions, and make sure to (at least) include the components for C# development. You will see many more options (and you're free to install them), but you won't need them for this book.
+2. Download and install [MonoGame 3.6](http://www.monogame.net/2017/03/01/monogame-3-6/)*, an open-source library that adds game-specific functionality to the C# language.
+3. Read Chapter 1 of the book (except Section 1.6) and follow the instructions there. This will let you run and change your first MonoGame project in Visual Studio, to verify that the installation worked.
+4. Download all example programs from our repository. To do this, go to our GitHub repository [(github.com/egges/csharpgames)](https://github.com/egges/csharpgames), click the green 'Clone or Download' button near the top, and choose 'Download ZIP'. Download the ZIP file to a location on your PC. Then **extract (unpack) the ZIP file**, otherwise the programs won't work!
+5. Read Section 1.6 of the book and follow the instructions there. This will let you open an example project and play the first game of our book: Painter.
+
+Once you've completed these steps successfully, you're ready to enjoy the book to its fullest!
+
+(*) Both Visual Studio and MonoGame receive new versions quite often. This is difficult for us to keep track of, especially with a printed book. We advise you to use Visual Studio 2017 and MonoGame 3.6, to be 100% sure that the example projects will run. If you really want to use newer versions, then you are free to do this at your own risk.
+
 ## About the Second Edition
 This second edition of the book includes the following improvements: 
-1. The book and all example programs are now based on the library MonoGame 3.6, instead of the obsolete XNA Game Studio. 
-2. Instead of explaining how the example programs work, the text now invites readers to write these programs themselves, with clearly marked reference points throughout the text. 
-3. The book now makes a clearer distinction between general (C#) programming concepts and concepts that are specific to game development. 
-4. The most important programming concepts are now summarized in convenient “Quick Reference” boxes, which replace the syntax diagrams of the first edition. 
-5. The updated exercises are now grouped per chapter and can be found at the end of each chapter, allowing readers to test their knowledge more directly.
+- The book and all example programs are now based on the library MonoGame 3.6, instead of the obsolete XNA Game Studio. 
+- Instead of explaining how the example programs work, the text now invites readers to write these programs themselves, with clearly marked reference points throughout the text. 
+- The book now makes a clearer distinction between general (C#) programming concepts and concepts that are specific to game development. 
+- The most important programming concepts are now summarized in convenient “Quick Reference” boxes, which replace the syntax diagrams of the first edition. 
+- The updated exercises are now grouped per chapter and can be found at the end of each chapter, allowing readers to test their knowledge more directly.
 
 ## About the authors
 **Wouter van Toll** is a post-doctoral researcher at Inria in Rennes, France, as well as a fanatic developer of games and apps. His research focuses on simulating the behavior of human crowds. Previously, he was a lecturer at the Department of Information and Computing Sciences at Utrecht University in the Netherlands. He has taught several bachelor and master courses there, including the introductory Game programming course designed by co-author Arjan Egges.
