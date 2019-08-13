@@ -33,7 +33,7 @@ This second edition of the book includes the following improvements:
 - The most important programming concepts are now summarized in convenient “Quick Reference” boxes, which replace the syntax diagrams of the first edition. 
 - The updated exercises are now grouped per chapter and can be found at the end of each chapter, allowing readers to test their knowledge more directly.
 
-## About the authors
+## About the Authors
 **Wouter van Toll** is a post-doctoral researcher at Inria in Rennes, France, as well as a fanatic developer of games and apps. His research focuses on simulating the behavior of human crowds. Previously, he was a lecturer at the Department of Information and Computing Sciences at Utrecht University in the Netherlands. He has taught several bachelor and master courses there, including the introductory Game programming course designed by co-author Arjan Egges.
   
 **Jeroen D. Fokker** is an assistant professor in the Software Technology group at Utrecht University. As the director of education, he is responsible for the undergraduate programs in Computer Science and Information Science. He has been teaching introductory programming courses for over 20 years, using C++, Haskell, Java, and C#, as well as courses on compiler construction.
