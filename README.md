@@ -10,9 +10,10 @@ This repository contains the sample code, solutions to the exercises and game as
 Assuming you own a copy of the book, here's what you need to do to get started with game development:
 1. Download and install [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/older-downloads/)*, a free program by Microsoft for writing and compiling code in C#. Follow the installation instructions, and make sure to (at least) include the components for C# development. You will see many more options (and you're free to install them), but you won't need them for this book.
 2. Download and install [MonoGame 3.6](http://www.monogame.net/2017/03/01/monogame-3-6/)*, an open-source library that adds game-specific functionality to the C# language.
-3. Read Chapter 1 of the book (except Section 1.6) and follow the instructions there. This will let you run and change your first MonoGame project in Visual Studio, to verify that the installation worked.
-4. Download all example programs from our repository. To do this, go to our GitHub repository [(github.com/egges/csharpgames)](https://github.com/egges/csharpgames), click the green 'Clone or Download' button near the top, and choose 'Download ZIP'. Download the ZIP file to a location on your PC. Then **extract (unpack) the ZIP file**, otherwise the programs won't work!
-5. Read Section 1.6 of the book and follow the instructions there. This will let you open an example project and play the first game of our book: Painter.
+3. Download and install the [Visual C++ 2012 Redistributable for VS2012](https://www.microsoft.com/en-us/download/confirmation.aspx?id=30679). This is required for running any MonoGame project that has text in it. (Otherwise, you will get error pop-ups about missing files such as "freetype6.dll".)
+4. Read Chapter 1 of the book (except Section 1.6) and follow the instructions there. This will let you run and change your first MonoGame project in Visual Studio, to verify that the installation worked.
+5. Download all example programs from our repository. To do this, go to our GitHub repository [(github.com/egges/csharpgames)](https://github.com/egges/csharpgames), click the green 'Clone or Download' button near the top, and choose 'Download ZIP'. Download the ZIP file to a location on your PC. Then **extract (unpack) the ZIP file**, otherwise the programs won't work!
+6. Read Section 1.6 of the book and follow the instructions there. This will let you open an example project and play the first game of our book: Painter.
 
 Once you've completed these steps successfully, you're ready to enjoy the book to its fullest!
 
