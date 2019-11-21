@@ -1,6 +1,6 @@
 # Learning C# by Programming Games, second edition
 
-This repository contains the sample code, solutions to the exercises and game assets belonging to the book ["Learning C# by Programming Games", second edition](https://www.springer.com/gp/book/9783642365799), published by Springer.
+This repository contains the sample code, solutions to the exercises and game assets belonging to the book ["Learning C# by Programming Games", second edition](https://www.springer.com/gp/book/9783662592519), published by Springer.
 
 <p align="center">
   <img width="250" alt="Cover image of the book" src="Cover.png">
